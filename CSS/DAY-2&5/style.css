@@ -1,0 +1,26 @@
+.header{
+    background-color: #4CAF50;
+    font-family: "LXGW Marker Gothic", sans-serif; 
+}
+.header h1 {
+    color: white;
+}
+.header h2 {
+    color: yellow;
+}
+.content h2{
+    color: rgb(88, 160, 248);
+}
+.content h3{
+  color: pink;
+}
+.js h2{
+  color: rgb(238, 193, 14);
+}
+caption {
+    color: rgb(235, 117, 14);
+}
+.top{
+  background-color: rgb(44, 105, 227);
+  color: white;
+}
